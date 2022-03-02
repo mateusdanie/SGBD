@@ -6,7 +6,7 @@
 Esse projeto visa a criação de tabelas, inserção de valores nessas relações, bem como definir algumas constraints para essas tabelas, além de consultas nessas relações. Este repostitorio tem a finalidade de armazenar os arquivos com os comandos SQL, solicitados pelo trabalho de Fundamento de Banco De Dados.
 
 # Tecnologias utilizadas
-![SQL](https://github.com/mateusdanie/SGBD/blob/master/PostgreeSQL%20.png)
+![SQL](https://github.com/mateusdanie/SGBD/blob/master/PostgreSQL.png)
 
 # Autor
 
